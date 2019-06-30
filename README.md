@@ -1,4 +1,4 @@
-# proyecto-clase-3.1.1-npm
+# PROYECTO CLASE 3.1.1 - NPM
 
 DETALLE DE LO REALIZADO:
 
